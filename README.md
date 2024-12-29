@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IT69godYash
-- 👀 I’m interested in WEB3
+- 👀 I’m interested in web3
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me - website - www.abhiraj06.wordpress.com
