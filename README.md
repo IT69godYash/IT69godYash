@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it69godyash&" alt="it69godyash" /></p>
 
-![snake gif](https://github.com/IT69godYash/IT69godYash/blob/output/github-snake-dark.svg)
