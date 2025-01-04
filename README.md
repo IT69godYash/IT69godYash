@@ -29,3 +29,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it69godyash&" alt="it69godyash" /></p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/IT69godYash/IT69godYash/output/snake.svg" alt="Snake animation" />
