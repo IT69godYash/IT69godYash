@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://github.com/user-attachments/assets/036c1595-35a3-43f2-8cae-0fbec6a69b3e" />
+<img align="centre" height="250" src="https://github.com/user-attachments/assets/036c1595-35a3-43f2-8cae-0fbec6a69b3e" />
 
 <h1 align="center">Hi 👋, I'm abhiraj mishra</h1>
 <h3 align="center">A passionate learner from India</h3>
