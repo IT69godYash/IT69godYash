@@ -1,3 +1,4 @@
+
 <img src="https://abhiraj06.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-07-201200.png" align="center" height="250" />
 
 # Hi 👋, I'm Abhiraj Mishra  
@@ -76,3 +77,5 @@
 ---
 
 ⭐️ **Thanks for stopping by! Feel free to check out my work and connect with me.** 😎  
+
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
