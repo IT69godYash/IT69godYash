@@ -1,3 +1,7 @@
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/greetings.gif" alt="Hello World" />
+</p>
+
 
 <img src="https://abhiraj06.wordpress.com/wp-content/uploads/2024/12/screenshot-2024-12-07-201200.png" align="center" height="250" />
 
@@ -35,7 +39,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Flutt<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850"><style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }</style><rect x="0" y="0" width="1280" height="850" fill="#00000f"></rect><g><g transform="translate(140 148.22)"><animateTransform attributeName="transform" type="translate" values="140 154.18;140 148.22" dur="3s" repeatCount="1"></animateTransform><rect stroke="none" x="0" y="0" width="18" height="18" transform="skewY(-30) skewX(40.89) scale(1 1.15)"><animate attributeName="fill" values="rgb(115, 38, 38);rgb(115, 115, 38);rgb(38, 115, 38);rgb(38, 115, 115);rgb(38, 38, 115);rgb(115, 38, 115);rgb(115, 38, 38)" dur="10s" repeatCount="indefinite"></animate></rect><rect stroke="none" x="0" y="0" width="18" height="7.76" transform="skewY(30) scale(1 1.15)"><animate attributeName="fill" values="rgb(96, 32, 32);rgb(96, 96, 32);rgb(32, 96, 32);rgb(32, 96, 96);rgb(32, 32, 96);rgb(96, 32, 96);rgb(96, 32, 32)" dur="10s" repeatCount="indefinite"></animate><animate attributeName="height" values="2.6;7.76" dur="3s" repeatCount="1"></animate></rect><rect stroke="none" x="0" y="0" width="18" height="7.76" transform="translate(18 10.39) skewY(-30) scale(1 1.15)"><animate attributeName="fill" values="rgb(80, 27, 27);rgb(80, 80, 27);rgb(27, 80, 27);rgb(27, 80, 80);rgb(27, 27, 80);rgb(80, 27, 80);rgb(80, 27, 27)" dur="10s" repeatCount="indefinite"></animate><animate attributeName="height" values="2.6;7.76" dur="3s" repeatCount="1"></animate></rect></g><g transform="translate(120 159.77)"><animateTransform attributeName="transform" type="translate" values="120 165.73;120 159.77" dur="3s" repeatCount="1"></animateTransform><rect stroke="none" x="0" y="0" width="18" height="18" transform="skewY(-30) skewX(40.89) scale(1 1.15)"><animate attributeName="fill" values="rgb(115, 38, 38);rgb(115, 115, 38);rgb(38, 115, 38);rgb(38, 115, 115);rgb(38, 38, 115);rgb(115, 38, 115);rgb(115, 38, 38)" dur="10s" repeatCount="indefinite"></animate></rect><rect stroke="none" x="0" y="0" width="18" her](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
