@@ -66,10 +66,6 @@
 
 ---
 
-## 📊 **Contribution Graph**  
-![Abhiraj's Contribution Graph](https://github-contribution-graph-evirunlike.vercel.app/api?username=IT69godYash&theme=dracula&height=200&area=true)  
-
----
 
 ## 💡 **Quote to Live By**  
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
